@@ -5,7 +5,7 @@ This source code provides example train Bird images using Tensorflow.
 
 Step 1
 
-Install Tensowflow using PIP, https://www.tensorflow.org/install/.
+Install Tensorflow using PIP, https://www.tensorflow.org/install/.
 
 Step 2
 
