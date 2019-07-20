@@ -1,4 +1,4 @@
-# tensorflow-python
+# TensorFlow CNN
 This source code provides example train Bird images using Tensorflow.
 
 # Steps
